@@ -1,4 +1,4 @@
-module authlib
+module github.com/OSSIT-Tim1/authlib
 
 go 1.18
 
